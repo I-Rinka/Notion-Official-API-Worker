@@ -2,7 +2,7 @@
 
 A serverless solution for the **OFFICIAL** Notion API.
 
-Since notion offcial sdk is still in beta version, it does not provide APIs that support CORS (Cross-origin resource sharing) that enables using notion as a serverless CMS. Therefore, I create repository: This software is a fork version of [cors-anywhere](https://github.com/Rob--W/cors-anywhere).
+Since notion offcial sdk is still in beta version, it does not provide APIs that support CORS (Cross-origin resource sharing) that enables using notion as a serverless CMS. Therefore, I create this repository. This software is a fork version of [cors-anywhere](https://github.com/Rob--W/cors-anywhere).
 
 ## Usage
 
