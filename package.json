@@ -1,7 +1,7 @@
 {
-  "name": "cors-anywhere",
+  "name": "notion-offical-api",
   "version": "0.1.1",
-  "description": "CORS Anywhere is a reverse proxy which adds CORS headers to the proxied request. Request URL is taken from the path",
+  "description": "Turn Notion into CMS by using its offical api",
   "license": "MIT",
   "author": "I-Rinka <I_Rinka@outlook.com>",
   "keywords": [
