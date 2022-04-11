@@ -8,6 +8,14 @@ Since notion offcial sdk is still in beta version, it does not provide APIs that
 
 ## Usage
 
+example:
+
+```bash
+
+curl https://notion-api.rinka-notion.workers.dev/https://api.notion.com/v1/databases/6c12515ae1d64423839e4540cacf49a5  
+
+```
+
 1. Create `.env` at the root of this repository.
 
 ```bash
@@ -37,13 +45,6 @@ You can use `curl` or `@notionhq` official API to get the data.
 
 Usage: `https://proxyhost` `/` `https://api.notion.com/v1/` `request`
 
-example:
-
-```bash
-
-curl https://localhost:8081/https://api.notion.com/v1/databases/6c12515ae1d64423839e4540cacf49a5
-
-```
 
 Notice: Since you use your own intergration key, you should add the requested page to your integration.
 
